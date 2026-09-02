@@ -1,0 +1,49 @@
+(1) components of the subgroups U ∩ {x_i = eps x_j}: 42, of which 18 with maximum 1/6 (the set Y);
+    the other 24 components have maximum 0 (D = 1/2).
+    (i,j,eps,ell)   L = w_i - eps w_j       K   maximisers tau          q0
+    (1,2,+,0)        1 A  -1 B          1   1/6,5/6                 43
+    (1,5,-,0)        4 A  +1 B          1   1/6,5/6                 43
+    (1,6,+,1)       -2 A  -2 B          2   1/6,1/3,2/3,5/6         12
+    (1,6,-,1)        4 A  +2 B          2   1/6,1/3,2/3,5/6         12
+    (2,3,-,0)        1 A  +2 B          1   1/6,5/6                 43
+    (2,4,+,1)       -2 A  +0 B          2   1/6,1/3,2/3,5/6         12
+    (2,4,-,1)        2 A  +2 B          2   1/6,1/3,2/3,5/6         12
+    (2,5,+,1)       -3 A  +0 B          3   1/6,5/6                 19
+    (2,5,+,2)       -3 A  +0 B          3   1/6,5/6                 19
+    (2,6,-,1)        3 A  +3 B          3   1/2,5/6                 19
+    (2,6,-,2)        3 A  +3 B          3   1/6,1/2                 19
+    (3,5,+,1)       -2 A  +0 B          2   1/6,1/3,2/3,5/6         12
+    (3,5,-,1)        4 A  +2 B          2   1/6,1/3,2/3,5/6         12
+    (3,6,-,0)        4 A  +3 B          1   1/6,5/6                 43
+    (4,5,-,0)        5 A  +2 B          1   1/6,5/6                 43
+    (4,6,-,0)        5 A  +3 B          1   1/6,5/6                 43
+    (5,6,-,1)        6 A  +3 B          3   1/6,1/2                 19
+    (5,6,-,2)        6 A  +3 B          3   1/2,5/6                 19
+(2) the offsets gamma depend only on (A,B) mod 6 and the sign of L: True
+ray slopes in A>0: ['-4', '-5/2', '-2', '-5/3', '-4/3', '-1', '-1/2', '1']
+(3) far region: 9 cones in the half-plane A > 0; 108 (class mod 6, cone) pairs on which every subtorus has ML = 1/6;
+    852 subcones and tie rays with a winner; 18216 pieces (class mod 36 x subcone/ray); problems: 0
+    P mod 6 distribution: {5: 2916, 1: 15300}  k: {3: 2916, 1: 15300}
+    winning forms P by class mod 6 and k:
+      class (0, 1), k = 1: 4A1B
+      class (0, 1), k = 3: -1A-1B
+      class (0, 5), k = 1: 1A-1B
+      class (0, 5), k = 3: 2A1B
+      class (1, 0), k = 1: -5A-3B, 1A-1B, 1A2B
+      class (1, 3), k = 1: -5A-2B, 1/4A-1/4B, 4A1B, 4A3B
+      class (1, 4), k = 1: -5A-3B, 5A2B
+      class (1, 5), k = 1: -1A-2B, 4A3B
+      class (2, 3), k = 1: -4A-3B, 1/5A-1/5B, 5A3B
+      class (4, 3), k = 1: -5A-3B, 1A-1B, 4A1B, 4A3B
+      class (5, 0), k = 1: -1A-2B, 5A2B, 5A3B
+      class (5, 1), k = 1: -4A-3B, 1A2B
+      class (5, 1), k = 3: 1A0B, 2A1B
+      class (5, 2), k = 1: -5A-2B, 5A3B
+      class (5, 2), k = 3: -1A-1B, 1A0B
+      class (5, 3), k = 1: -4A-3B, -1A-2B, 5A2B
+(4) strips: 510 lines; 331140 formula pieces, 0 pieces where a strip quadruple wins; 23214 points checked directly
+    piece checks: problems 0; k counts {1: 269328, 3: 61812}
+    direct check: 7120 near-tight among them, problems 0, k counts {1: 6338, 3: 782}, largest coordinate 299
+(5) sup of max|v_i|/q: far pieces 3 (at ((1, 3), Fraction(-4, 1), Fraction(-3, 1), Fraction(-3, 1))), attained on rays: 18; strip pieces 63/23 (at ((1, -1), -37, 5, Fraction(-40, 1)))
+    directly checked points: max ratio 141/55 at (-49, 6)
+total time 133 s

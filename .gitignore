@@ -1,0 +1,14 @@
+# compiled programs and Python caches
+mltest
+fastrunner
+fastrunner5
+prejump
+ucscan
+ucdump
+ucpoints
+survey
+__pycache__/
+*.pyc
+# large outputs of run_all.sh
+ucdump300.txt
+survey_n*.txt
