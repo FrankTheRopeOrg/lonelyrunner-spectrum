@@ -20,6 +20,6 @@ witness filter in `classify6.py`) and a C99 compiler with OpenMP.
 
 `uc_theorem_output.txt` is the output of `uc_theorem.py` on the author's machine.
 
-Archived at Zenodo: https://doi.org/10.5281/zenodo.22252167
+Archived at Zenodo: https://doi.org/10.5281/zenodo.22252166 (all versions; this release: 10.5281/zenodo.22254774)
 Companion code for the paper "Odd denominators in the Lonely Runner spectrum for six speeds" (F. Cordella, 2026).
 License: MIT (see LICENSE). Cite via CITATION.cff.
