@@ -1,4 +1,4 @@
-# Code for "Near-tight values of the Lonely Runner spectrum for five and six speeds"
+# Code for "Odd denominators in the Lonely Runner spectrum for six speeds"
 
 Everything is exact (integer or rational arithmetic; no floating point in any
 decision).  Python 3 (standard library; `numpy` optional, only to speed up the
@@ -20,5 +20,6 @@ witness filter in `classify6.py`) and a C99 compiler with OpenMP.
 
 `uc_theorem_output.txt` is the output of `uc_theorem.py` on the author's machine.
 
-Archived at Zenodo: https://doi.org/10.5281/zenodo.22252167 (replace with the DOI of the record).
+Archived at Zenodo: https://doi.org/10.5281/zenodo.22252167
+Companion code for the paper "Odd denominators in the Lonely Runner spectrum for six speeds" (F. Cordella, 2026).
 License: MIT (see LICENSE). Cite via CITATION.cff.
