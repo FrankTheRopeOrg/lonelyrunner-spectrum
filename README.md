@@ -20,5 +20,5 @@ witness filter in `classify6.py`) and a C99 compiler with OpenMP.
 
 `uc_theorem_output.txt` is the output of `uc_theorem.py` on the author's machine.
 
-Archived at Zenodo: https://doi.org/10.5281/zenodo.XXXXXXX (replace with the DOI of the record).
+Archived at Zenodo: https://doi.org/10.5281/zenodo.22252167 (replace with the DOI of the record).
 License: MIT (see LICENSE). Cite via CITATION.cff.
