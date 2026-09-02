@@ -1,7 +1,7 @@
 {
-  "title": "Code for: Near-tight values of the Lonely Runner spectrum for five and six speeds",
+  "title": "Code for: Odd denominators in the Lonely Runner spectrum for six speeds",
   "upload_type": "software",
-  "description": "Exact verification code for the paper \"Near-tight values of the Lonely Runner spectrum for five and six speeds\" (F. Cordella, 2026): classification of the critical two-dimensional subtori of (R/Z)^6 and (R/Z)^5, exact maximum-loneliness kernel in C, complete Jain-Kravitz sector analysis of the subtorus U_C with explicit thresholds, one-very-fast-runner checks, and exhaustive searches for four to eight speeds. run_all.sh reproduces every number quoted in the paper in about twenty minutes on two cores. Requirements: Python 3 (numpy optional) and a C99 compiler with OpenMP.",
+  "description": "Exact verification code for the paper \"Odd denominators in the Lonely Runner spectrum for six speeds\" (F. Cordella, 2026): classification of the critical two-dimensional subtori of (R/Z)^6 and (R/Z)^5, exact maximum-loneliness kernel in C, complete Jain-Kravitz sector analysis of the subtorus U_C with explicit thresholds, one-very-fast-runner checks, and exhaustive searches for four to eight speeds. run_all.sh reproduces every number quoted in the paper in about twenty minutes on two cores. Requirements: Python 3 (numpy optional) and a C99 compiler with OpenMP.",
   "creators": [
     {
       "name": "Cordella, Francesco",
@@ -12,5 +12,5 @@
   "license": "MIT",
   "keywords": ["Lonely Runner Conjecture", "maximum loneliness", "Lonely Runner spectrum", "Diophantine approximation", "view-obstruction", "computer-assisted proof"],
   "language": "eng",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
