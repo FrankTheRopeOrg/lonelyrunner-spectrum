@@ -6,8 +6,8 @@ authors:
     given-names: Francesco
     affiliation: "ENEA, Centro Ricerche Frascati"
     orcid: "https://orcid.org/0000-0003-0731-5622"
-version: 1.0.1
-date-released: 2026-09-02
+version: 1.0.2
+date-released: 2026-09-05
 license: MIT
 doi: 10.5281/zenodo.22252166
 keywords:
@@ -16,3 +16,15 @@ keywords:
   - Lonely Runner spectrum
   - Diophantine approximation
   - computer-assisted proof
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Cordella
+      given-names: Francesco
+      orcid: https://orcid.org/0000-0003-0731-5622
+  title: "Odd denominators in the Lonely Runner spectrum for six speeds"
+  year: 2026
+  identifiers:
+    - type: other
+      value: arXiv:2609.03444
+  url: https://arxiv.org/abs/2609.03444

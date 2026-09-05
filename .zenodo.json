@@ -10,7 +10,22 @@
     }
   ],
   "license": "MIT",
-  "keywords": ["Lonely Runner Conjecture", "maximum loneliness", "Lonely Runner spectrum", "Diophantine approximation", "view-obstruction", "computer-assisted proof"],
+  "keywords": [
+    "Lonely Runner Conjecture",
+    "maximum loneliness",
+    "Lonely Runner spectrum",
+    "Diophantine approximation",
+    "view-obstruction",
+    "computer-assisted proof"
+  ],
   "language": "eng",
-  "version": "1.0.1"
+  "version": "1.0.2",
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2609.03444",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint",
+      "scheme": "arxiv"
+    }
+  ]
 }

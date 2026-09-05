@@ -1,5 +1,9 @@
 # Code for "Odd denominators in the Lonely Runner spectrum for six speeds"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22252166.svg)](https://doi.org/10.5281/zenodo.22252166)
+
+Companion code for the paper F. Cordella, *Odd denominators in the Lonely Runner spectrum for six speeds*, [arXiv:2609.03444](https://arxiv.org/abs/2609.03444) (2026).
+
 Everything is exact (integer or rational arithmetic; no floating point in any
 decision).  Python 3 (standard library; `numpy` optional, only to speed up the
 witness filter in `classify6.py`) and a C99 compiler with OpenMP.
